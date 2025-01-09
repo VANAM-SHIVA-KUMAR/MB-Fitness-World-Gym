@@ -45,7 +45,3 @@ If you find any issues with the website or have suggestions for improvement, ple
 
 ### MIT License
 
-This gym website is available under the [MIT License](https://github.com/mian-ali/GymWebsite/blob/main/LICENCE.md).
-
-### Project Live URI:  [Live Demo](https://mian-ali.github.io/GymWebsite/)
-
